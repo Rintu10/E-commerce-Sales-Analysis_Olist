@@ -19,3 +19,12 @@
 <h3>🛠️ Tools Used </h3>
 <li> -Power BI: for data modeling, dashboard building, and DAX measures</li>
 <li> -Microsoft Excel: for data preprocessing, initial cleaning, and merging CSVs</li>
+
+<h3>Data Set</h3>
+<url>https://drive.google.com/file/d/1-XqgBt8nziAPd9cla_qc3cJCeZ15kFY-/view?usp=drive_link</url>
+
+<h3>📊 Reports</h3>
+<h4> Excel</h4>
+<url>https://drive.google.com/file/d/1E33chZDAxuR3dyPElLoEqOyn2Huj4k4F/view?usp=drive_link</url>
+<h4> Power Bi</h4>
+<url>https://drive.google.com/file/d/1zYlMnBJJwf-dyFCBOc4IlkuUoalrN-B2/view?usp=drive_link</url>
