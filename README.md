@@ -1,6 +1,6 @@
-# Olist-Ecommerce
+# E-commerce Sales Analysis (Olist)
 
-<h2>This project explores the Olist E-commerce Public Dataset, a real-world dataset from a Brazilian marketplace that connects small businesses to major e-commerce platforms. Using Power BI and Microsoft Excel, this analysis uncovers business insights about sales, customer behavior, delivery logistics, and product performance.</h2>
+<h2>Conducted EDA on sales transaction data to uncover key revenue drivers, modeled customer segmentation, and built interactive dashboards enabling management to identify top-selling product categories and optimize marketing focus.</h2>
 
 
 <h3> Project Objectives </h3>
